@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//mathbigai.github.io/portfolio/static/css/main.ddc99f96.css",
+    "main.js": "//mathbigai.github.io/portfolio/static/js/main.8e4ea9c8.js",
+    "static/media/header-img.png": "//mathbigai.github.io/portfolio/static/media/header-img.5e7af8311ef8f450019f.png",
+    "static/media/projeto2.png": "//mathbigai.github.io/portfolio/static/media/projeto2.a0143c45ee93d79ff1f1.png",
+    "static/media/projeto1.png": "//mathbigai.github.io/portfolio/static/media/projeto1.cf824cb59f14cec096bb.png",
+    "static/media/logo-portfolio.png": "//mathbigai.github.io/portfolio/static/media/logo-portfolio.d760a8b73c4ab7f65c8b.png",
+    "static/media/header-img-2.jpg": "//mathbigai.github.io/portfolio/static/media/header-img-2.fcd4a4af033d0d8be719.jpg",
+    "static/media/revicons.eot": "//mathbigai.github.io/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "//mathbigai.github.io/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "//mathbigai.github.io/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/navIcon3.svg": "//mathbigai.github.io/portfolio/static/media/navIcon3.52038f708085aaed24b27fd472bd3725.svg",
+    "index.html": "//mathbigai.github.io/portfolio/index.html",
+    "static/media/navIcon2.svg": "//mathbigai.github.io/portfolio/static/media/navIcon2.27700e9602b9211971a28cc649e32faf.svg",
+    "static/media/navIcon1.svg": "//mathbigai.github.io/portfolio/static/media/navIcon1.898ec4eebeb3d6a1d1a2fd4118e0d058.svg",
+    "main.ddc99f96.css.map": "//mathbigai.github.io/portfolio/static/css/main.ddc99f96.css.map",
+    "main.8e4ea9c8.js.map": "//mathbigai.github.io/portfolio/static/js/main.8e4ea9c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc99f96.css",
+    "static/js/main.8e4ea9c8.js"
+  ]
+}
